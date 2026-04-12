@@ -5,3 +5,4 @@ edition = "2024"
 default-run = "pc-dsa-mahbubul-hasan"
 
 [dependencies]
+proconio = "0.5.0"
